@@ -1,7 +1,7 @@
 {
-  "name": "c",
+  "name": "Sala 7",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pruebas de Git y GitHub",
   "main": "app.js",
   "scripts": {
     "test": "y"
@@ -13,6 +13,6 @@
   "keywords": [
     "y"
   ],
-  "author": "y",
+  "author": "Emanuel Tejerina, Sergio Fernandez",
   "license": "GPL-3.0"
 }
