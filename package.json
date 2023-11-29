@@ -1,12 +1,14 @@
 {
-  "name": "pruebadh",
+  "name": "Sala 7",
   "version": "1.0.0",
-  "description": "",
+  "description": "Pruebas de Git y GitHub",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "y"
+  ],
+  "author": "Emanuel Tejerina, Sergio Fernandez",
+  "license": "GPL-3.0"
 }
